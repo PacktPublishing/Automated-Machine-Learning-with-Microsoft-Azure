@@ -1,0 +1,1825 @@
+Date,Store,Sales
+1/1/2020,New York City,10
+1/2/2020,New York City,20
+1/3/2020,New York City,23
+1/4/2020,New York City,2
+1/5/2020,New York City,79
+1/6/2020,New York City,81
+1/7/2020,New York City,4
+1/8/2020,New York City,17
+1/9/2020,New York City,28
+1/10/2020,New York City,70
+1/11/2020,New York City,55
+1/12/2020,New York City,33
+1/13/2020,New York City,28
+1/14/2020,New York City,7
+1/15/2020,New York City,47
+1/16/2020,New York City,79
+1/17/2020,New York City,6
+1/18/2020,New York City,76
+1/19/2020,New York City,21
+1/20/2020,New York City,31
+1/21/2020,New York City,31
+1/22/2020,New York City,64
+1/23/2020,New York City,73
+1/24/2020,New York City,63
+1/25/2020,New York City,21
+1/26/2020,New York City,69
+1/27/2020,New York City,74
+1/28/2020,New York City,45
+1/29/2020,New York City,51
+1/30/2020,New York City,7
+1/31/2020,New York City,3
+2/1/2020,New York City,68
+2/2/2020,New York City,32
+2/3/2020,New York City,99
+2/4/2020,New York City,98
+2/5/2020,New York City,19
+2/6/2020,New York City,66
+2/7/2020,New York City,8
+2/8/2020,New York City,58
+2/9/2020,New York City,84
+2/10/2020,New York City,85
+2/11/2020,New York City,60
+2/12/2020,New York City,20
+2/13/2020,New York City,12
+2/14/2020,New York City,68
+2/15/2020,New York City,71
+2/16/2020,New York City,51
+2/17/2020,New York City,7
+2/18/2020,New York City,48
+2/19/2020,New York City,73
+2/20/2020,New York City,99
+2/21/2020,New York City,84
+2/22/2020,New York City,55
+2/23/2020,New York City,27
+2/24/2020,New York City,100
+2/25/2020,New York City,98
+2/26/2020,New York City,54
+2/27/2020,New York City,91
+2/28/2020,New York City,22
+2/29/2020,New York City,4
+3/1/2020,New York City,81
+3/2/2020,New York City,3
+3/3/2020,New York City,39
+3/4/2020,New York City,80
+3/5/2020,New York City,8
+3/6/2020,New York City,52
+3/7/2020,New York City,50
+3/8/2020,New York City,52
+3/9/2020,New York City,39
+3/10/2020,New York City,49
+3/11/2020,New York City,1
+3/12/2020,New York City,100
+3/13/2020,New York City,63
+3/14/2020,New York City,30
+3/15/2020,New York City,96
+3/16/2020,New York City,38
+3/17/2020,New York City,52
+3/18/2020,New York City,89
+3/19/2020,New York City,82
+3/20/2020,New York City,68
+3/21/2020,New York City,44
+3/22/2020,New York City,43
+3/23/2020,New York City,82
+3/24/2020,New York City,91
+3/25/2020,New York City,98
+3/26/2020,New York City,40
+3/27/2020,New York City,20
+3/28/2020,New York City,51
+3/29/2020,New York City,11
+3/30/2020,New York City,96
+3/31/2020,New York City,86
+4/1/2020,New York City,1
+4/2/2020,New York City,39
+4/3/2020,New York City,15
+4/4/2020,New York City,11
+4/5/2020,New York City,60
+4/6/2020,New York City,56
+4/7/2020,New York City,73
+4/8/2020,New York City,43
+4/9/2020,New York City,49
+4/10/2020,New York City,56
+4/11/2020,New York City,87
+4/12/2020,New York City,60
+4/13/2020,New York City,96
+4/14/2020,New York City,7
+4/15/2020,New York City,17
+4/16/2020,New York City,53
+4/17/2020,New York City,37
+4/18/2020,New York City,86
+4/19/2020,New York City,54
+4/20/2020,New York City,81
+4/21/2020,New York City,22
+4/22/2020,New York City,67
+4/23/2020,New York City,64
+4/24/2020,New York City,74
+4/25/2020,New York City,16
+4/26/2020,New York City,34
+4/27/2020,New York City,54
+4/28/2020,New York City,30
+4/29/2020,New York City,60
+4/30/2020,New York City,60
+5/1/2020,New York City,47
+5/2/2020,New York City,22
+5/3/2020,New York City,93
+5/4/2020,New York City,88
+5/5/2020,New York City,56
+5/6/2020,New York City,89
+5/7/2020,New York City,76
+5/8/2020,New York City,19
+5/9/2020,New York City,12
+5/10/2020,New York City,23
+5/11/2020,New York City,31
+5/12/2020,New York City,94
+5/13/2020,New York City,61
+5/14/2020,New York City,78
+5/15/2020,New York City,35
+5/16/2020,New York City,15
+5/17/2020,New York City,87
+5/18/2020,New York City,76
+5/19/2020,New York City,54
+5/20/2020,New York City,3
+5/21/2020,New York City,87
+5/22/2020,New York City,41
+5/23/2020,New York City,69
+5/24/2020,New York City,36
+5/25/2020,New York City,5
+5/26/2020,New York City,6
+5/27/2020,New York City,50
+5/28/2020,New York City,52
+5/29/2020,New York City,45
+5/30/2020,New York City,17
+5/31/2020,New York City,80
+6/1/2020,New York City,56
+6/2/2020,New York City,4
+6/3/2020,New York City,7
+6/4/2020,New York City,27
+6/5/2020,New York City,72
+6/6/2020,New York City,93
+6/7/2020,New York City,86
+6/8/2020,New York City,2
+6/9/2020,New York City,94
+6/10/2020,New York City,61
+6/11/2020,New York City,71
+6/12/2020,New York City,29
+6/13/2020,New York City,24
+6/14/2020,New York City,66
+6/15/2020,New York City,32
+6/16/2020,New York City,35
+6/17/2020,New York City,54
+6/18/2020,New York City,31
+6/19/2020,New York City,85
+6/20/2020,New York City,98
+6/21/2020,New York City,71
+6/22/2020,New York City,84
+6/23/2020,New York City,67
+6/24/2020,New York City,75
+6/25/2020,New York City,53
+6/26/2020,New York City,21
+6/27/2020,New York City,5
+6/28/2020,New York City,88
+6/29/2020,New York City,46
+6/30/2020,New York City,63
+7/1/2020,New York City,15
+7/2/2020,New York City,71
+7/3/2020,New York City,36
+7/4/2020,New York City,75
+7/5/2020,New York City,100
+7/6/2020,New York City,8
+7/7/2020,New York City,23
+7/8/2020,New York City,41
+7/9/2020,New York City,2
+7/10/2020,New York City,84
+7/11/2020,New York City,13
+7/12/2020,New York City,2
+7/13/2020,New York City,52
+7/14/2020,New York City,89
+7/15/2020,New York City,60
+7/16/2020,New York City,1
+7/17/2020,New York City,35
+7/18/2020,New York City,42
+7/19/2020,New York City,90
+7/20/2020,New York City,76
+7/21/2020,New York City,82
+7/22/2020,New York City,92
+7/23/2020,New York City,64
+7/24/2020,New York City,66
+7/25/2020,New York City,46
+7/26/2020,New York City,29
+7/27/2020,New York City,13
+7/28/2020,New York City,6
+7/29/2020,New York City,7
+7/30/2020,New York City,48
+7/31/2020,New York City,74
+8/1/2020,New York City,74
+8/2/2020,New York City,80
+8/3/2020,New York City,5
+8/4/2020,New York City,67
+8/5/2020,New York City,86
+8/6/2020,New York City,45
+8/7/2020,New York City,45
+8/8/2020,New York City,83
+8/9/2020,New York City,88
+8/10/2020,New York City,66
+8/11/2020,New York City,10
+8/12/2020,New York City,12
+8/13/2020,New York City,98
+8/14/2020,New York City,19
+8/15/2020,New York City,61
+8/16/2020,New York City,97
+8/17/2020,New York City,4
+8/18/2020,New York City,39
+8/19/2020,New York City,95
+8/20/2020,New York City,33
+8/21/2020,New York City,69
+8/22/2020,New York City,7
+8/23/2020,New York City,20
+8/24/2020,New York City,9
+8/25/2020,New York City,7
+8/26/2020,New York City,53
+8/27/2020,New York City,86
+8/28/2020,New York City,21
+8/29/2020,New York City,22
+8/30/2020,New York City,17
+8/31/2020,New York City,6
+9/1/2020,New York City,31
+9/2/2020,New York City,72
+9/3/2020,New York City,33
+9/4/2020,New York City,27
+9/5/2020,New York City,7
+9/6/2020,New York City,61
+9/7/2020,New York City,94
+9/8/2020,New York City,25
+9/9/2020,New York City,73
+9/10/2020,New York City,52
+9/11/2020,New York City,99
+9/12/2020,New York City,36
+9/13/2020,New York City,42
+9/14/2020,New York City,59
+9/15/2020,New York City,65
+9/16/2020,New York City,10
+9/17/2020,New York City,51
+9/18/2020,New York City,83
+9/19/2020,New York City,20
+9/20/2020,New York City,33
+9/21/2020,New York City,66
+9/22/2020,New York City,59
+9/23/2020,New York City,19
+9/24/2020,New York City,32
+9/25/2020,New York City,98
+9/26/2020,New York City,98
+9/27/2020,New York City,67
+9/28/2020,New York City,71
+9/29/2020,New York City,35
+9/30/2020,New York City,94
+10/1/2020,New York City,87
+10/2/2020,New York City,15
+10/3/2020,New York City,98
+10/4/2020,New York City,32
+10/5/2020,New York City,87
+10/6/2020,New York City,67
+10/7/2020,New York City,9
+10/8/2020,New York City,97
+10/9/2020,New York City,61
+10/10/2020,New York City,5
+10/11/2020,New York City,48
+10/12/2020,New York City,23
+10/13/2020,New York City,47
+10/14/2020,New York City,65
+10/15/2020,New York City,41
+10/16/2020,New York City,55
+10/17/2020,New York City,66
+10/18/2020,New York City,10
+10/19/2020,New York City,32
+10/20/2020,New York City,73
+10/21/2020,New York City,77
+10/22/2020,New York City,7
+10/23/2020,New York City,39
+10/24/2020,New York City,18
+10/25/2020,New York City,81
+10/26/2020,New York City,32
+10/27/2020,New York City,95
+10/28/2020,New York City,57
+10/29/2020,New York City,56
+10/30/2020,New York City,98
+10/31/2020,New York City,81
+11/1/2020,New York City,48
+11/2/2020,New York City,17
+11/3/2020,New York City,96
+11/4/2020,New York City,94
+11/5/2020,New York City,12
+11/6/2020,New York City,69
+11/7/2020,New York City,19
+11/8/2020,New York City,85
+11/9/2020,New York City,46
+11/10/2020,New York City,13
+11/11/2020,New York City,46
+11/12/2020,New York City,84
+11/13/2020,New York City,34
+11/14/2020,New York City,31
+11/15/2020,New York City,84
+11/16/2020,New York City,47
+11/17/2020,New York City,22
+11/18/2020,New York City,92
+11/19/2020,New York City,56
+11/20/2020,New York City,31
+11/21/2020,New York City,43
+11/22/2020,New York City,80
+11/23/2020,New York City,60
+11/24/2020,New York City,71
+11/25/2020,New York City,16
+11/26/2020,New York City,46
+11/27/2020,New York City,77
+11/28/2020,New York City,95
+11/29/2020,New York City,40
+11/30/2020,New York City,54
+12/1/2020,New York City,98
+12/2/2020,New York City,26
+12/3/2020,New York City,54
+12/4/2020,New York City,35
+12/5/2020,New York City,90
+12/6/2020,New York City,39
+12/7/2020,New York City,77
+12/8/2020,New York City,53
+12/9/2020,New York City,20
+12/10/2020,New York City,53
+12/11/2020,New York City,67
+12/12/2020,New York City,85
+12/13/2020,New York City,66
+12/14/2020,New York City,92
+12/15/2020,New York City,94
+12/16/2020,New York City,42
+12/17/2020,New York City,46
+12/18/2020,New York City,35
+12/19/2020,New York City,8
+12/20/2020,New York City,29
+12/21/2020,New York City,95
+12/22/2020,New York City,92
+12/23/2020,New York City,37
+12/24/2020,New York City,37
+12/25/2020,New York City,1
+12/26/2020,New York City,53
+12/27/2020,New York City,38
+12/28/2020,New York City,16
+12/29/2020,New York City,89
+12/30/2020,New York City,49
+12/31/2020,New York City,80
+1/1/2021,New York City,93
+1/2/2021,New York City,10
+1/3/2021,New York City,60
+1/4/2021,New York City,61
+1/5/2021,New York City,13
+1/6/2021,New York City,6
+1/7/2021,New York City,95
+1/8/2021,New York City,13
+1/9/2021,New York City,35
+1/10/2021,New York City,79
+1/11/2021,New York City,27
+1/12/2021,New York City,7
+1/13/2021,New York City,55
+1/14/2021,New York City,81
+1/15/2021,New York City,89
+1/16/2021,New York City,94
+1/17/2021,New York City,33
+1/18/2021,New York City,54
+1/19/2021,New York City,74
+1/20/2021,New York City,75
+1/21/2021,New York City,57
+1/22/2021,New York City,40
+1/23/2021,New York City,70
+1/24/2021,New York City,47
+1/25/2021,New York City,79
+1/26/2021,New York City,87
+1/27/2021,New York City,94
+1/28/2021,New York City,90
+1/29/2021,New York City,91
+1/30/2021,New York City,42
+1/31/2021,New York City,3
+2/1/2021,New York City,36
+2/2/2021,New York City,14
+2/3/2021,New York City,50
+2/4/2021,New York City,91
+2/5/2021,New York City,36
+2/6/2021,New York City,55
+2/7/2021,New York City,91
+2/8/2021,New York City,22
+2/9/2021,New York City,49
+2/10/2021,New York City,42
+2/11/2021,New York City,38
+2/12/2021,New York City,50
+2/13/2021,New York City,68
+2/14/2021,New York City,24
+2/15/2021,New York City,53
+2/16/2021,New York City,33
+2/17/2021,New York City,76
+2/18/2021,New York City,48
+2/19/2021,New York City,3
+2/20/2021,New York City,63
+2/21/2021,New York City,46
+2/22/2021,New York City,38
+2/23/2021,New York City,66
+2/24/2021,New York City,91
+2/25/2021,New York City,6
+2/26/2021,New York City,54
+2/27/2021,New York City,89
+2/28/2021,New York City,76
+3/1/2021,New York City,12
+3/2/2021,New York City,50
+3/3/2021,New York City,67
+3/4/2021,New York City,16
+3/5/2021,New York City,77
+3/6/2021,New York City,13
+3/7/2021,New York City,64
+3/8/2021,New York City,65
+3/9/2021,New York City,63
+3/10/2021,New York City,54
+3/11/2021,New York City,9
+3/12/2021,New York City,84
+3/13/2021,New York City,77
+3/14/2021,New York City,23
+3/15/2021,New York City,37
+3/16/2021,New York City,91
+3/17/2021,New York City,55
+3/18/2021,New York City,38
+3/19/2021,New York City,3
+3/20/2021,New York City,58
+3/21/2021,New York City,23
+3/22/2021,New York City,77
+3/23/2021,New York City,41
+3/24/2021,New York City,55
+3/25/2021,New York City,43
+3/26/2021,New York City,12
+3/27/2021,New York City,34
+3/28/2021,New York City,45
+3/29/2021,New York City,98
+3/30/2021,New York City,6
+3/31/2021,New York City,86
+1/1/2020,San Francisco,71
+1/2/2020,San Francisco,68
+1/3/2020,San Francisco,81
+1/4/2020,San Francisco,14
+1/5/2020,San Francisco,56
+1/6/2020,San Francisco,68
+1/7/2020,San Francisco,16
+1/8/2020,San Francisco,9
+1/9/2020,San Francisco,83
+1/10/2020,San Francisco,61
+1/11/2020,San Francisco,46
+1/12/2020,San Francisco,96
+1/13/2020,San Francisco,96
+1/14/2020,San Francisco,72
+1/15/2020,San Francisco,61
+1/16/2020,San Francisco,33
+1/17/2020,San Francisco,12
+1/18/2020,San Francisco,56
+1/19/2020,San Francisco,78
+1/20/2020,San Francisco,85
+1/21/2020,San Francisco,47
+1/22/2020,San Francisco,70
+1/23/2020,San Francisco,73
+1/24/2020,San Francisco,93
+1/25/2020,San Francisco,8
+1/26/2020,San Francisco,44
+1/27/2020,San Francisco,9
+1/28/2020,San Francisco,83
+1/29/2020,San Francisco,87
+1/30/2020,San Francisco,12
+1/31/2020,San Francisco,83
+2/1/2020,San Francisco,40
+2/2/2020,San Francisco,75
+2/3/2020,San Francisco,64
+2/4/2020,San Francisco,61
+2/5/2020,San Francisco,11
+2/6/2020,San Francisco,29
+2/7/2020,San Francisco,83
+2/8/2020,San Francisco,66
+2/9/2020,San Francisco,10
+2/10/2020,San Francisco,59
+2/11/2020,San Francisco,66
+2/12/2020,San Francisco,45
+2/13/2020,San Francisco,22
+2/14/2020,San Francisco,54
+2/15/2020,San Francisco,53
+2/16/2020,San Francisco,86
+2/17/2020,San Francisco,53
+2/18/2020,San Francisco,98
+2/19/2020,San Francisco,31
+2/20/2020,San Francisco,24
+2/21/2020,San Francisco,65
+2/22/2020,San Francisco,47
+2/23/2020,San Francisco,94
+2/24/2020,San Francisco,5
+2/25/2020,San Francisco,11
+2/26/2020,San Francisco,87
+2/27/2020,San Francisco,56
+2/28/2020,San Francisco,70
+2/29/2020,San Francisco,92
+3/1/2020,San Francisco,49
+3/2/2020,San Francisco,78
+3/3/2020,San Francisco,50
+3/4/2020,San Francisco,40
+3/5/2020,San Francisco,53
+3/6/2020,San Francisco,57
+3/7/2020,San Francisco,2
+3/8/2020,San Francisco,12
+3/9/2020,San Francisco,8
+3/10/2020,San Francisco,70
+3/11/2020,San Francisco,69
+3/12/2020,San Francisco,51
+3/13/2020,San Francisco,20
+3/14/2020,San Francisco,18
+3/15/2020,San Francisco,38
+3/16/2020,San Francisco,76
+3/17/2020,San Francisco,15
+3/18/2020,San Francisco,73
+3/19/2020,San Francisco,85
+3/20/2020,San Francisco,82
+3/21/2020,San Francisco,76
+3/22/2020,San Francisco,54
+3/23/2020,San Francisco,94
+3/24/2020,San Francisco,1
+3/25/2020,San Francisco,50
+3/26/2020,San Francisco,60
+3/27/2020,San Francisco,47
+3/28/2020,San Francisco,76
+3/29/2020,San Francisco,32
+3/30/2020,San Francisco,25
+3/31/2020,San Francisco,68
+4/1/2020,San Francisco,53
+4/2/2020,San Francisco,36
+4/3/2020,San Francisco,83
+4/4/2020,San Francisco,30
+4/5/2020,San Francisco,32
+4/6/2020,San Francisco,39
+4/7/2020,San Francisco,85
+4/8/2020,San Francisco,11
+4/9/2020,San Francisco,10
+4/10/2020,San Francisco,52
+4/11/2020,San Francisco,98
+4/12/2020,San Francisco,23
+4/13/2020,San Francisco,43
+4/14/2020,San Francisco,18
+4/15/2020,San Francisco,62
+4/16/2020,San Francisco,53
+4/17/2020,San Francisco,66
+4/18/2020,San Francisco,71
+4/19/2020,San Francisco,18
+4/20/2020,San Francisco,16
+4/21/2020,San Francisco,43
+4/22/2020,San Francisco,48
+4/23/2020,San Francisco,69
+4/24/2020,San Francisco,35
+4/25/2020,San Francisco,98
+4/26/2020,San Francisco,63
+4/27/2020,San Francisco,9
+4/28/2020,San Francisco,25
+4/29/2020,San Francisco,91
+4/30/2020,San Francisco,90
+5/1/2020,San Francisco,55
+5/2/2020,San Francisco,88
+5/3/2020,San Francisco,90
+5/4/2020,San Francisco,67
+5/5/2020,San Francisco,35
+5/6/2020,San Francisco,14
+5/7/2020,San Francisco,79
+5/8/2020,San Francisco,60
+5/9/2020,San Francisco,70
+5/10/2020,San Francisco,40
+5/11/2020,San Francisco,41
+5/12/2020,San Francisco,5
+5/13/2020,San Francisco,48
+5/14/2020,San Francisco,62
+5/15/2020,San Francisco,74
+5/16/2020,San Francisco,16
+5/17/2020,San Francisco,35
+5/18/2020,San Francisco,97
+5/19/2020,San Francisco,25
+5/20/2020,San Francisco,40
+5/21/2020,San Francisco,55
+5/22/2020,San Francisco,18
+5/23/2020,San Francisco,35
+5/24/2020,San Francisco,80
+5/25/2020,San Francisco,73
+5/26/2020,San Francisco,17
+5/27/2020,San Francisco,75
+5/28/2020,San Francisco,16
+5/29/2020,San Francisco,61
+5/30/2020,San Francisco,32
+5/31/2020,San Francisco,17
+6/1/2020,San Francisco,93
+6/2/2020,San Francisco,55
+6/3/2020,San Francisco,50
+6/4/2020,San Francisco,56
+6/5/2020,San Francisco,29
+6/6/2020,San Francisco,69
+6/7/2020,San Francisco,81
+6/8/2020,San Francisco,94
+6/9/2020,San Francisco,51
+6/10/2020,San Francisco,10
+6/11/2020,San Francisco,56
+6/12/2020,San Francisco,13
+6/13/2020,San Francisco,29
+6/14/2020,San Francisco,66
+6/15/2020,San Francisco,83
+6/16/2020,San Francisco,21
+6/17/2020,San Francisco,46
+6/18/2020,San Francisco,49
+6/19/2020,San Francisco,50
+6/20/2020,San Francisco,59
+6/21/2020,San Francisco,40
+6/22/2020,San Francisco,63
+6/23/2020,San Francisco,99
+6/24/2020,San Francisco,85
+6/25/2020,San Francisco,96
+6/26/2020,San Francisco,71
+6/27/2020,San Francisco,84
+6/28/2020,San Francisco,70
+6/29/2020,San Francisco,79
+6/30/2020,San Francisco,16
+7/1/2020,San Francisco,52
+7/2/2020,San Francisco,63
+7/3/2020,San Francisco,34
+7/4/2020,San Francisco,36
+7/5/2020,San Francisco,24
+7/6/2020,San Francisco,72
+7/7/2020,San Francisco,37
+7/8/2020,San Francisco,91
+7/9/2020,San Francisco,17
+7/10/2020,San Francisco,41
+7/11/2020,San Francisco,1
+7/12/2020,San Francisco,93
+7/13/2020,San Francisco,69
+7/14/2020,San Francisco,56
+7/15/2020,San Francisco,100
+7/16/2020,San Francisco,41
+7/17/2020,San Francisco,98
+7/18/2020,San Francisco,91
+7/19/2020,San Francisco,48
+7/20/2020,San Francisco,30
+7/21/2020,San Francisco,10
+7/22/2020,San Francisco,27
+7/23/2020,San Francisco,54
+7/24/2020,San Francisco,21
+7/25/2020,San Francisco,46
+7/26/2020,San Francisco,86
+7/27/2020,San Francisco,62
+7/28/2020,San Francisco,100
+7/29/2020,San Francisco,72
+7/30/2020,San Francisco,43
+7/31/2020,San Francisco,32
+8/1/2020,San Francisco,8
+8/2/2020,San Francisco,17
+8/3/2020,San Francisco,53
+8/4/2020,San Francisco,1
+8/5/2020,San Francisco,40
+8/6/2020,San Francisco,32
+8/7/2020,San Francisco,3
+8/8/2020,San Francisco,22
+8/9/2020,San Francisco,2
+8/10/2020,San Francisco,3
+8/11/2020,San Francisco,23
+8/12/2020,San Francisco,68
+8/13/2020,San Francisco,60
+8/14/2020,San Francisco,70
+8/15/2020,San Francisco,47
+8/16/2020,San Francisco,23
+8/17/2020,San Francisco,49
+8/18/2020,San Francisco,89
+8/19/2020,San Francisco,19
+8/20/2020,San Francisco,76
+8/21/2020,San Francisco,2
+8/22/2020,San Francisco,72
+8/23/2020,San Francisco,48
+8/24/2020,San Francisco,52
+8/25/2020,San Francisco,98
+8/26/2020,San Francisco,63
+8/27/2020,San Francisco,61
+8/28/2020,San Francisco,57
+8/29/2020,San Francisco,81
+8/30/2020,San Francisco,15
+8/31/2020,San Francisco,74
+9/1/2020,San Francisco,58
+9/2/2020,San Francisco,19
+9/3/2020,San Francisco,94
+9/4/2020,San Francisco,29
+9/5/2020,San Francisco,62
+9/6/2020,San Francisco,5
+9/7/2020,San Francisco,20
+9/8/2020,San Francisco,62
+9/9/2020,San Francisco,35
+9/10/2020,San Francisco,23
+9/11/2020,San Francisco,32
+9/12/2020,San Francisco,40
+9/13/2020,San Francisco,58
+9/14/2020,San Francisco,59
+9/15/2020,San Francisco,1
+9/16/2020,San Francisco,67
+9/17/2020,San Francisco,71
+9/18/2020,San Francisco,70
+9/19/2020,San Francisco,83
+9/20/2020,San Francisco,98
+9/21/2020,San Francisco,60
+9/22/2020,San Francisco,55
+9/23/2020,San Francisco,65
+9/24/2020,San Francisco,70
+9/25/2020,San Francisco,16
+9/26/2020,San Francisco,82
+9/27/2020,San Francisco,94
+9/28/2020,San Francisco,87
+9/29/2020,San Francisco,44
+9/30/2020,San Francisco,50
+10/1/2020,San Francisco,40
+10/2/2020,San Francisco,60
+10/3/2020,San Francisco,79
+10/4/2020,San Francisco,10
+10/5/2020,San Francisco,19
+10/6/2020,San Francisco,65
+10/7/2020,San Francisco,58
+10/8/2020,San Francisco,54
+10/9/2020,San Francisco,68
+10/10/2020,San Francisco,42
+10/11/2020,San Francisco,12
+10/12/2020,San Francisco,28
+10/13/2020,San Francisco,30
+10/14/2020,San Francisco,44
+10/15/2020,San Francisco,37
+10/16/2020,San Francisco,89
+10/17/2020,San Francisco,79
+10/18/2020,San Francisco,39
+10/19/2020,San Francisco,81
+10/20/2020,San Francisco,74
+10/21/2020,San Francisco,18
+10/22/2020,San Francisco,54
+10/23/2020,San Francisco,2
+10/24/2020,San Francisco,16
+10/25/2020,San Francisco,23
+10/26/2020,San Francisco,8
+10/27/2020,San Francisco,61
+10/28/2020,San Francisco,3
+10/29/2020,San Francisco,81
+10/30/2020,San Francisco,79
+10/31/2020,San Francisco,38
+11/1/2020,San Francisco,22
+11/2/2020,San Francisco,94
+11/3/2020,San Francisco,100
+11/4/2020,San Francisco,78
+11/5/2020,San Francisco,4
+11/6/2020,San Francisco,16
+11/7/2020,San Francisco,81
+11/8/2020,San Francisco,35
+11/9/2020,San Francisco,94
+11/10/2020,San Francisco,18
+11/11/2020,San Francisco,14
+11/12/2020,San Francisco,61
+11/13/2020,San Francisco,29
+11/14/2020,San Francisco,90
+11/15/2020,San Francisco,51
+11/16/2020,San Francisco,91
+11/17/2020,San Francisco,15
+11/18/2020,San Francisco,46
+11/19/2020,San Francisco,24
+11/20/2020,San Francisco,42
+11/21/2020,San Francisco,75
+11/22/2020,San Francisco,89
+11/23/2020,San Francisco,49
+11/24/2020,San Francisco,6
+11/25/2020,San Francisco,22
+11/26/2020,San Francisco,75
+11/27/2020,San Francisco,43
+11/28/2020,San Francisco,50
+11/29/2020,San Francisco,63
+11/30/2020,San Francisco,55
+12/1/2020,San Francisco,39
+12/2/2020,San Francisco,21
+12/3/2020,San Francisco,91
+12/4/2020,San Francisco,66
+12/5/2020,San Francisco,74
+12/6/2020,San Francisco,70
+12/7/2020,San Francisco,37
+12/8/2020,San Francisco,3
+12/9/2020,San Francisco,24
+12/10/2020,San Francisco,37
+12/11/2020,San Francisco,68
+12/12/2020,San Francisco,85
+12/13/2020,San Francisco,26
+12/14/2020,San Francisco,75
+12/15/2020,San Francisco,51
+12/16/2020,San Francisco,1
+12/17/2020,San Francisco,84
+12/18/2020,San Francisco,23
+12/19/2020,San Francisco,52
+12/20/2020,San Francisco,29
+12/21/2020,San Francisco,66
+12/22/2020,San Francisco,54
+12/23/2020,San Francisco,85
+12/24/2020,San Francisco,98
+12/25/2020,San Francisco,29
+12/26/2020,San Francisco,46
+12/27/2020,San Francisco,98
+12/28/2020,San Francisco,32
+12/29/2020,San Francisco,45
+12/30/2020,San Francisco,64
+12/31/2020,San Francisco,54
+1/1/2021,San Francisco,80
+1/2/2021,San Francisco,42
+1/3/2021,San Francisco,8
+1/4/2021,San Francisco,48
+1/5/2021,San Francisco,99
+1/6/2021,San Francisco,43
+1/7/2021,San Francisco,4
+1/8/2021,San Francisco,55
+1/9/2021,San Francisco,15
+1/10/2021,San Francisco,76
+1/11/2021,San Francisco,78
+1/12/2021,San Francisco,16
+1/13/2021,San Francisco,37
+1/14/2021,San Francisco,98
+1/15/2021,San Francisco,71
+1/16/2021,San Francisco,44
+1/17/2021,San Francisco,7
+1/18/2021,San Francisco,61
+1/19/2021,San Francisco,24
+1/20/2021,San Francisco,96
+1/21/2021,San Francisco,83
+1/22/2021,San Francisco,67
+1/23/2021,San Francisco,100
+1/24/2021,San Francisco,8
+1/25/2021,San Francisco,20
+1/26/2021,San Francisco,77
+1/27/2021,San Francisco,34
+1/28/2021,San Francisco,29
+1/29/2021,San Francisco,25
+1/30/2021,San Francisco,12
+1/31/2021,San Francisco,98
+2/1/2021,San Francisco,63
+2/2/2021,San Francisco,78
+2/3/2021,San Francisco,30
+2/4/2021,San Francisco,59
+2/5/2021,San Francisco,39
+2/6/2021,San Francisco,77
+2/7/2021,San Francisco,88
+2/8/2021,San Francisco,90
+2/9/2021,San Francisco,85
+2/10/2021,San Francisco,52
+2/11/2021,San Francisco,9
+2/12/2021,San Francisco,22
+2/13/2021,San Francisco,98
+2/14/2021,San Francisco,44
+2/15/2021,San Francisco,51
+2/16/2021,San Francisco,4
+2/17/2021,San Francisco,79
+2/18/2021,San Francisco,44
+2/19/2021,San Francisco,43
+2/20/2021,San Francisco,71
+2/21/2021,San Francisco,73
+2/22/2021,San Francisco,54
+2/23/2021,San Francisco,34
+2/24/2021,San Francisco,87
+2/25/2021,San Francisco,57
+2/26/2021,San Francisco,4
+2/27/2021,San Francisco,80
+2/28/2021,San Francisco,83
+3/1/2021,San Francisco,83
+3/2/2021,San Francisco,37
+3/3/2021,San Francisco,44
+3/4/2021,San Francisco,50
+3/5/2021,San Francisco,73
+3/6/2021,San Francisco,91
+3/7/2021,San Francisco,55
+3/8/2021,San Francisco,9
+3/9/2021,San Francisco,98
+3/10/2021,San Francisco,8
+3/11/2021,San Francisco,64
+3/12/2021,San Francisco,94
+3/13/2021,San Francisco,90
+3/14/2021,San Francisco,16
+3/15/2021,San Francisco,63
+3/16/2021,San Francisco,75
+3/17/2021,San Francisco,54
+3/18/2021,San Francisco,83
+3/19/2021,San Francisco,3
+3/20/2021,San Francisco,87
+3/21/2021,San Francisco,67
+3/22/2021,San Francisco,30
+3/23/2021,San Francisco,26
+3/24/2021,San Francisco,83
+3/25/2021,San Francisco,49
+3/26/2021,San Francisco,43
+3/27/2021,San Francisco,55
+3/28/2021,San Francisco,93
+3/29/2021,San Francisco,25
+3/30/2021,San Francisco,28
+3/31/2021,San Francisco,21
+1/1/2020,Washington DC,31
+1/2/2020,Washington DC,40
+1/3/2020,Washington DC,37
+1/4/2020,Washington DC,14
+1/5/2020,Washington DC,24
+1/6/2020,Washington DC,25
+1/7/2020,Washington DC,71
+1/8/2020,Washington DC,86
+1/9/2020,Washington DC,8
+1/10/2020,Washington DC,9
+1/11/2020,Washington DC,97
+1/12/2020,Washington DC,49
+1/13/2020,Washington DC,43
+1/14/2020,Washington DC,60
+1/15/2020,Washington DC,97
+1/16/2020,Washington DC,20
+1/17/2020,Washington DC,14
+1/18/2020,Washington DC,42
+1/19/2020,Washington DC,69
+1/20/2020,Washington DC,74
+1/21/2020,Washington DC,60
+1/22/2020,Washington DC,50
+1/23/2020,Washington DC,96
+1/24/2020,Washington DC,64
+1/25/2020,Washington DC,1
+1/26/2020,Washington DC,70
+1/27/2020,Washington DC,31
+1/28/2020,Washington DC,91
+1/29/2020,Washington DC,48
+1/30/2020,Washington DC,68
+1/31/2020,Washington DC,42
+2/1/2020,Washington DC,48
+2/2/2020,Washington DC,99
+2/3/2020,Washington DC,60
+2/4/2020,Washington DC,32
+2/5/2020,Washington DC,69
+2/6/2020,Washington DC,19
+2/7/2020,Washington DC,80
+2/8/2020,Washington DC,65
+2/9/2020,Washington DC,37
+2/10/2020,Washington DC,26
+2/11/2020,Washington DC,65
+2/12/2020,Washington DC,30
+2/13/2020,Washington DC,11
+2/14/2020,Washington DC,83
+2/15/2020,Washington DC,65
+2/16/2020,Washington DC,66
+2/17/2020,Washington DC,19
+2/18/2020,Washington DC,53
+2/19/2020,Washington DC,23
+2/20/2020,Washington DC,67
+2/21/2020,Washington DC,46
+2/22/2020,Washington DC,22
+2/23/2020,Washington DC,27
+2/24/2020,Washington DC,98
+2/25/2020,Washington DC,57
+2/26/2020,Washington DC,76
+2/27/2020,Washington DC,60
+2/28/2020,Washington DC,29
+2/29/2020,Washington DC,17
+3/1/2020,Washington DC,39
+3/2/2020,Washington DC,10
+3/3/2020,Washington DC,94
+3/4/2020,Washington DC,97
+3/5/2020,Washington DC,95
+3/6/2020,Washington DC,88
+3/7/2020,Washington DC,94
+3/8/2020,Washington DC,66
+3/9/2020,Washington DC,41
+3/10/2020,Washington DC,71
+3/11/2020,Washington DC,80
+3/12/2020,Washington DC,75
+3/13/2020,Washington DC,49
+3/14/2020,Washington DC,78
+3/15/2020,Washington DC,30
+3/16/2020,Washington DC,34
+3/17/2020,Washington DC,36
+3/18/2020,Washington DC,8
+3/19/2020,Washington DC,90
+3/20/2020,Washington DC,35
+3/21/2020,Washington DC,26
+3/22/2020,Washington DC,96
+3/23/2020,Washington DC,96
+3/24/2020,Washington DC,52
+3/25/2020,Washington DC,1
+3/26/2020,Washington DC,28
+3/27/2020,Washington DC,74
+3/28/2020,Washington DC,45
+3/29/2020,Washington DC,11
+3/30/2020,Washington DC,42
+3/31/2020,Washington DC,50
+4/1/2020,Washington DC,54
+4/2/2020,Washington DC,67
+4/3/2020,Washington DC,60
+4/4/2020,Washington DC,68
+4/5/2020,Washington DC,71
+4/6/2020,Washington DC,89
+4/7/2020,Washington DC,51
+4/8/2020,Washington DC,9
+4/9/2020,Washington DC,20
+4/10/2020,Washington DC,42
+4/11/2020,Washington DC,31
+4/12/2020,Washington DC,51
+4/13/2020,Washington DC,21
+4/14/2020,Washington DC,2
+4/15/2020,Washington DC,62
+4/16/2020,Washington DC,20
+4/17/2020,Washington DC,6
+4/18/2020,Washington DC,15
+4/19/2020,Washington DC,37
+4/20/2020,Washington DC,74
+4/21/2020,Washington DC,44
+4/22/2020,Washington DC,70
+4/23/2020,Washington DC,72
+4/24/2020,Washington DC,82
+4/25/2020,Washington DC,33
+4/26/2020,Washington DC,100
+4/27/2020,Washington DC,31
+4/28/2020,Washington DC,52
+4/29/2020,Washington DC,56
+4/30/2020,Washington DC,87
+5/1/2020,Washington DC,47
+5/2/2020,Washington DC,53
+5/3/2020,Washington DC,36
+5/4/2020,Washington DC,45
+5/5/2020,Washington DC,55
+5/6/2020,Washington DC,16
+5/7/2020,Washington DC,62
+5/8/2020,Washington DC,42
+5/9/2020,Washington DC,84
+5/10/2020,Washington DC,30
+5/11/2020,Washington DC,96
+5/12/2020,Washington DC,78
+5/13/2020,Washington DC,92
+5/14/2020,Washington DC,92
+5/15/2020,Washington DC,77
+5/16/2020,Washington DC,48
+5/17/2020,Washington DC,44
+5/18/2020,Washington DC,75
+5/19/2020,Washington DC,83
+5/20/2020,Washington DC,13
+5/21/2020,Washington DC,40
+5/22/2020,Washington DC,40
+5/23/2020,Washington DC,2
+5/24/2020,Washington DC,96
+5/25/2020,Washington DC,67
+5/26/2020,Washington DC,40
+5/27/2020,Washington DC,52
+5/28/2020,Washington DC,70
+5/29/2020,Washington DC,66
+5/30/2020,Washington DC,72
+5/31/2020,Washington DC,20
+6/1/2020,Washington DC,100
+6/2/2020,Washington DC,25
+6/3/2020,Washington DC,9
+6/4/2020,Washington DC,29
+6/5/2020,Washington DC,48
+6/6/2020,Washington DC,21
+6/7/2020,Washington DC,93
+6/8/2020,Washington DC,41
+6/9/2020,Washington DC,32
+6/10/2020,Washington DC,71
+6/11/2020,Washington DC,9
+6/12/2020,Washington DC,29
+6/13/2020,Washington DC,74
+6/14/2020,Washington DC,96
+6/15/2020,Washington DC,33
+6/16/2020,Washington DC,7
+6/17/2020,Washington DC,50
+6/18/2020,Washington DC,8
+6/19/2020,Washington DC,36
+6/20/2020,Washington DC,88
+6/21/2020,Washington DC,13
+6/22/2020,Washington DC,10
+6/23/2020,Washington DC,20
+6/24/2020,Washington DC,78
+6/25/2020,Washington DC,93
+6/26/2020,Washington DC,48
+6/27/2020,Washington DC,8
+6/28/2020,Washington DC,50
+6/29/2020,Washington DC,29
+6/30/2020,Washington DC,68
+7/1/2020,Washington DC,14
+7/2/2020,Washington DC,22
+7/3/2020,Washington DC,28
+7/4/2020,Washington DC,80
+7/5/2020,Washington DC,44
+7/6/2020,Washington DC,21
+7/7/2020,Washington DC,18
+7/8/2020,Washington DC,76
+7/9/2020,Washington DC,55
+7/10/2020,Washington DC,8
+7/11/2020,Washington DC,61
+7/12/2020,Washington DC,11
+7/13/2020,Washington DC,7
+7/14/2020,Washington DC,83
+7/15/2020,Washington DC,19
+7/16/2020,Washington DC,78
+7/17/2020,Washington DC,78
+7/18/2020,Washington DC,14
+7/19/2020,Washington DC,21
+7/20/2020,Washington DC,14
+7/21/2020,Washington DC,64
+7/22/2020,Washington DC,3
+7/23/2020,Washington DC,21
+7/24/2020,Washington DC,35
+7/25/2020,Washington DC,81
+7/26/2020,Washington DC,31
+7/27/2020,Washington DC,31
+7/28/2020,Washington DC,34
+7/29/2020,Washington DC,46
+7/30/2020,Washington DC,74
+7/31/2020,Washington DC,74
+8/1/2020,Washington DC,90
+8/2/2020,Washington DC,8
+8/3/2020,Washington DC,12
+8/4/2020,Washington DC,24
+8/5/2020,Washington DC,42
+8/6/2020,Washington DC,17
+8/7/2020,Washington DC,84
+8/8/2020,Washington DC,19
+8/9/2020,Washington DC,7
+8/10/2020,Washington DC,73
+8/11/2020,Washington DC,43
+8/12/2020,Washington DC,23
+8/13/2020,Washington DC,7
+8/14/2020,Washington DC,56
+8/15/2020,Washington DC,78
+8/16/2020,Washington DC,24
+8/17/2020,Washington DC,45
+8/18/2020,Washington DC,33
+8/19/2020,Washington DC,31
+8/20/2020,Washington DC,90
+8/21/2020,Washington DC,17
+8/22/2020,Washington DC,62
+8/23/2020,Washington DC,38
+8/24/2020,Washington DC,8
+8/25/2020,Washington DC,30
+8/26/2020,Washington DC,38
+8/27/2020,Washington DC,70
+8/28/2020,Washington DC,86
+8/29/2020,Washington DC,90
+8/30/2020,Washington DC,100
+8/31/2020,Washington DC,87
+9/1/2020,Washington DC,84
+9/2/2020,Washington DC,34
+9/3/2020,Washington DC,66
+9/4/2020,Washington DC,17
+9/5/2020,Washington DC,9
+9/6/2020,Washington DC,67
+9/7/2020,Washington DC,43
+9/8/2020,Washington DC,45
+9/9/2020,Washington DC,97
+9/10/2020,Washington DC,68
+9/11/2020,Washington DC,15
+9/12/2020,Washington DC,32
+9/13/2020,Washington DC,63
+9/14/2020,Washington DC,2
+9/15/2020,Washington DC,26
+9/16/2020,Washington DC,100
+9/17/2020,Washington DC,29
+9/18/2020,Washington DC,38
+9/19/2020,Washington DC,47
+9/20/2020,Washington DC,12
+9/21/2020,Washington DC,31
+9/22/2020,Washington DC,79
+9/23/2020,Washington DC,34
+9/24/2020,Washington DC,38
+9/25/2020,Washington DC,41
+9/26/2020,Washington DC,55
+9/27/2020,Washington DC,3
+9/28/2020,Washington DC,12
+9/29/2020,Washington DC,37
+9/30/2020,Washington DC,56
+10/1/2020,Washington DC,19
+10/2/2020,Washington DC,85
+10/3/2020,Washington DC,98
+10/4/2020,Washington DC,52
+10/5/2020,Washington DC,3
+10/6/2020,Washington DC,1
+10/7/2020,Washington DC,50
+10/8/2020,Washington DC,63
+10/9/2020,Washington DC,53
+10/10/2020,Washington DC,99
+10/11/2020,Washington DC,63
+10/12/2020,Washington DC,4
+10/13/2020,Washington DC,85
+10/14/2020,Washington DC,22
+10/15/2020,Washington DC,46
+10/16/2020,Washington DC,28
+10/17/2020,Washington DC,43
+10/18/2020,Washington DC,17
+10/19/2020,Washington DC,8
+10/20/2020,Washington DC,31
+10/21/2020,Washington DC,66
+10/22/2020,Washington DC,70
+10/23/2020,Washington DC,92
+10/24/2020,Washington DC,18
+10/25/2020,Washington DC,63
+10/26/2020,Washington DC,49
+10/27/2020,Washington DC,38
+10/28/2020,Washington DC,17
+10/29/2020,Washington DC,9
+10/30/2020,Washington DC,57
+10/31/2020,Washington DC,38
+11/1/2020,Washington DC,13
+11/2/2020,Washington DC,36
+11/3/2020,Washington DC,21
+11/4/2020,Washington DC,30
+11/5/2020,Washington DC,14
+11/6/2020,Washington DC,68
+11/7/2020,Washington DC,53
+11/8/2020,Washington DC,42
+11/9/2020,Washington DC,89
+11/10/2020,Washington DC,33
+11/11/2020,Washington DC,73
+11/12/2020,Washington DC,50
+11/13/2020,Washington DC,41
+11/14/2020,Washington DC,96
+11/15/2020,Washington DC,21
+11/16/2020,Washington DC,87
+11/17/2020,Washington DC,81
+11/18/2020,Washington DC,17
+11/19/2020,Washington DC,23
+11/20/2020,Washington DC,56
+11/21/2020,Washington DC,12
+11/22/2020,Washington DC,75
+11/23/2020,Washington DC,85
+11/24/2020,Washington DC,96
+11/25/2020,Washington DC,48
+11/26/2020,Washington DC,12
+11/27/2020,Washington DC,93
+11/28/2020,Washington DC,62
+11/29/2020,Washington DC,91
+11/30/2020,Washington DC,70
+12/1/2020,Washington DC,48
+12/2/2020,Washington DC,79
+12/3/2020,Washington DC,79
+12/4/2020,Washington DC,22
+12/5/2020,Washington DC,53
+12/6/2020,Washington DC,42
+12/7/2020,Washington DC,63
+12/8/2020,Washington DC,98
+12/9/2020,Washington DC,94
+12/10/2020,Washington DC,56
+12/11/2020,Washington DC,74
+12/12/2020,Washington DC,54
+12/13/2020,Washington DC,30
+12/14/2020,Washington DC,99
+12/15/2020,Washington DC,87
+12/16/2020,Washington DC,57
+12/17/2020,Washington DC,100
+12/18/2020,Washington DC,50
+12/19/2020,Washington DC,94
+12/20/2020,Washington DC,72
+12/21/2020,Washington DC,99
+12/22/2020,Washington DC,10
+12/23/2020,Washington DC,91
+12/24/2020,Washington DC,74
+12/25/2020,Washington DC,29
+12/26/2020,Washington DC,46
+12/27/2020,Washington DC,24
+12/28/2020,Washington DC,55
+12/29/2020,Washington DC,45
+12/30/2020,Washington DC,73
+12/31/2020,Washington DC,26
+1/1/2021,Washington DC,54
+1/2/2021,Washington DC,97
+1/3/2021,Washington DC,92
+1/4/2021,Washington DC,3
+1/5/2021,Washington DC,72
+1/6/2021,Washington DC,36
+1/7/2021,Washington DC,53
+1/8/2021,Washington DC,22
+1/9/2021,Washington DC,73
+1/10/2021,Washington DC,10
+1/11/2021,Washington DC,6
+1/12/2021,Washington DC,47
+1/13/2021,Washington DC,75
+1/14/2021,Washington DC,33
+1/15/2021,Washington DC,5
+1/16/2021,Washington DC,43
+1/17/2021,Washington DC,42
+1/18/2021,Washington DC,6
+1/19/2021,Washington DC,56
+1/20/2021,Washington DC,90
+1/21/2021,Washington DC,98
+1/22/2021,Washington DC,93
+1/23/2021,Washington DC,51
+1/24/2021,Washington DC,91
+1/25/2021,Washington DC,94
+1/26/2021,Washington DC,98
+1/27/2021,Washington DC,28
+1/28/2021,Washington DC,21
+1/29/2021,Washington DC,69
+1/30/2021,Washington DC,7
+1/31/2021,Washington DC,11
+2/1/2021,Washington DC,92
+2/2/2021,Washington DC,84
+2/3/2021,Washington DC,19
+2/4/2021,Washington DC,35
+2/5/2021,Washington DC,83
+2/6/2021,Washington DC,51
+2/7/2021,Washington DC,9
+2/8/2021,Washington DC,60
+2/9/2021,Washington DC,45
+2/10/2021,Washington DC,37
+2/11/2021,Washington DC,73
+2/12/2021,Washington DC,25
+2/13/2021,Washington DC,4
+2/14/2021,Washington DC,37
+2/15/2021,Washington DC,41
+2/16/2021,Washington DC,88
+2/17/2021,Washington DC,23
+2/18/2021,Washington DC,73
+2/19/2021,Washington DC,12
+2/20/2021,Washington DC,14
+2/21/2021,Washington DC,61
+2/22/2021,Washington DC,61
+2/23/2021,Washington DC,89
+2/24/2021,Washington DC,11
+2/25/2021,Washington DC,61
+2/26/2021,Washington DC,23
+2/27/2021,Washington DC,14
+2/28/2021,Washington DC,85
+3/1/2021,Washington DC,73
+3/2/2021,Washington DC,77
+3/3/2021,Washington DC,67
+3/4/2021,Washington DC,99
+3/5/2021,Washington DC,69
+3/6/2021,Washington DC,10
+3/7/2021,Washington DC,57
+3/8/2021,Washington DC,97
+3/9/2021,Washington DC,32
+3/10/2021,Washington DC,86
+3/11/2021,Washington DC,49
+3/12/2021,Washington DC,22
+3/13/2021,Washington DC,44
+3/14/2021,Washington DC,91
+3/15/2021,Washington DC,51
+3/16/2021,Washington DC,27
+3/17/2021,Washington DC,3
+3/18/2021,Washington DC,97
+3/19/2021,Washington DC,91
+3/20/2021,Washington DC,24
+3/21/2021,Washington DC,81
+3/22/2021,Washington DC,60
+3/23/2021,Washington DC,73
+3/24/2021,Washington DC,5
+3/25/2021,Washington DC,8
+3/26/2021,Washington DC,62
+3/27/2021,Washington DC,67
+3/28/2021,Washington DC,36
+3/29/2021,Washington DC,87
+3/30/2021,Washington DC,52
+3/31/2021,Washington DC,43
+1/1/2020,Seattle,74
+1/2/2020,Seattle,1
+1/3/2020,Seattle,87
+1/4/2020,Seattle,13
+1/5/2020,Seattle,60
+1/6/2020,Seattle,92
+1/7/2020,Seattle,89
+1/8/2020,Seattle,51
+1/9/2020,Seattle,16
+1/10/2020,Seattle,18
+1/11/2020,Seattle,16
+1/12/2020,Seattle,96
+1/13/2020,Seattle,31
+1/14/2020,Seattle,44
+1/15/2020,Seattle,41
+1/16/2020,Seattle,38
+1/17/2020,Seattle,49
+1/18/2020,Seattle,68
+1/19/2020,Seattle,52
+1/20/2020,Seattle,85
+1/21/2020,Seattle,4
+1/22/2020,Seattle,20
+1/23/2020,Seattle,86
+1/24/2020,Seattle,72
+1/25/2020,Seattle,62
+1/26/2020,Seattle,39
+1/27/2020,Seattle,38
+1/28/2020,Seattle,88
+1/29/2020,Seattle,70
+1/30/2020,Seattle,37
+1/31/2020,Seattle,37
+2/1/2020,Seattle,40
+2/2/2020,Seattle,1
+2/3/2020,Seattle,55
+2/4/2020,Seattle,72
+2/5/2020,Seattle,93
+2/6/2020,Seattle,21
+2/7/2020,Seattle,3
+2/8/2020,Seattle,41
+2/9/2020,Seattle,29
+2/10/2020,Seattle,24
+2/11/2020,Seattle,36
+2/12/2020,Seattle,93
+2/13/2020,Seattle,83
+2/14/2020,Seattle,29
+2/15/2020,Seattle,91
+2/16/2020,Seattle,5
+2/17/2020,Seattle,85
+2/18/2020,Seattle,19
+2/19/2020,Seattle,72
+2/20/2020,Seattle,16
+2/21/2020,Seattle,41
+2/22/2020,Seattle,51
+2/23/2020,Seattle,30
+2/24/2020,Seattle,19
+2/25/2020,Seattle,32
+2/26/2020,Seattle,18
+2/27/2020,Seattle,65
+2/28/2020,Seattle,47
+2/29/2020,Seattle,26
+3/1/2020,Seattle,5
+3/2/2020,Seattle,51
+3/3/2020,Seattle,100
+3/4/2020,Seattle,29
+3/5/2020,Seattle,33
+3/6/2020,Seattle,34
+3/7/2020,Seattle,9
+3/8/2020,Seattle,95
+3/9/2020,Seattle,46
+3/10/2020,Seattle,68
+3/11/2020,Seattle,70
+3/12/2020,Seattle,64
+3/13/2020,Seattle,16
+3/14/2020,Seattle,57
+3/15/2020,Seattle,43
+3/16/2020,Seattle,17
+3/17/2020,Seattle,9
+3/18/2020,Seattle,16
+3/19/2020,Seattle,2
+3/20/2020,Seattle,2
+3/21/2020,Seattle,18
+3/22/2020,Seattle,19
+3/23/2020,Seattle,8
+3/24/2020,Seattle,36
+3/25/2020,Seattle,81
+3/26/2020,Seattle,3
+3/27/2020,Seattle,67
+3/28/2020,Seattle,25
+3/29/2020,Seattle,77
+3/30/2020,Seattle,21
+3/31/2020,Seattle,69
+4/1/2020,Seattle,23
+4/2/2020,Seattle,7
+4/3/2020,Seattle,54
+4/4/2020,Seattle,12
+4/5/2020,Seattle,36
+4/6/2020,Seattle,65
+4/7/2020,Seattle,6
+4/8/2020,Seattle,48
+4/9/2020,Seattle,3
+4/10/2020,Seattle,35
+4/11/2020,Seattle,85
+4/12/2020,Seattle,60
+4/13/2020,Seattle,88
+4/14/2020,Seattle,64
+4/15/2020,Seattle,99
+4/16/2020,Seattle,99
+4/17/2020,Seattle,30
+4/18/2020,Seattle,88
+4/19/2020,Seattle,72
+4/20/2020,Seattle,20
+4/21/2020,Seattle,37
+4/22/2020,Seattle,61
+4/23/2020,Seattle,13
+4/24/2020,Seattle,20
+4/25/2020,Seattle,29
+4/26/2020,Seattle,37
+4/27/2020,Seattle,1
+4/28/2020,Seattle,48
+4/29/2020,Seattle,49
+4/30/2020,Seattle,46
+5/1/2020,Seattle,33
+5/2/2020,Seattle,54
+5/3/2020,Seattle,62
+5/4/2020,Seattle,65
+5/5/2020,Seattle,66
+5/6/2020,Seattle,21
+5/7/2020,Seattle,71
+5/8/2020,Seattle,83
+5/9/2020,Seattle,35
+5/10/2020,Seattle,70
+5/11/2020,Seattle,5
+5/12/2020,Seattle,39
+5/13/2020,Seattle,51
+5/14/2020,Seattle,63
+5/15/2020,Seattle,8
+5/16/2020,Seattle,69
+5/17/2020,Seattle,1
+5/18/2020,Seattle,99
+5/19/2020,Seattle,72
+5/20/2020,Seattle,27
+5/21/2020,Seattle,65
+5/22/2020,Seattle,14
+5/23/2020,Seattle,44
+5/24/2020,Seattle,3
+5/25/2020,Seattle,34
+5/26/2020,Seattle,76
+5/27/2020,Seattle,94
+5/28/2020,Seattle,95
+5/29/2020,Seattle,99
+5/30/2020,Seattle,92
+5/31/2020,Seattle,45
+6/1/2020,Seattle,33
+6/2/2020,Seattle,67
+6/3/2020,Seattle,77
+6/4/2020,Seattle,61
+6/5/2020,Seattle,57
+6/6/2020,Seattle,100
+6/7/2020,Seattle,4
+6/8/2020,Seattle,64
+6/9/2020,Seattle,77
+6/10/2020,Seattle,33
+6/11/2020,Seattle,83
+6/12/2020,Seattle,77
+6/13/2020,Seattle,87
+6/14/2020,Seattle,39
+6/15/2020,Seattle,34
+6/16/2020,Seattle,69
+6/17/2020,Seattle,74
+6/18/2020,Seattle,32
+6/19/2020,Seattle,23
+6/20/2020,Seattle,36
+6/21/2020,Seattle,46
+6/22/2020,Seattle,1
+6/23/2020,Seattle,62
+6/24/2020,Seattle,28
+6/25/2020,Seattle,5
+6/26/2020,Seattle,57
+6/27/2020,Seattle,35
+6/28/2020,Seattle,71
+6/29/2020,Seattle,47
+6/30/2020,Seattle,83
+7/1/2020,Seattle,1
+7/2/2020,Seattle,80
+7/3/2020,Seattle,33
+7/4/2020,Seattle,43
+7/5/2020,Seattle,84
+7/6/2020,Seattle,4
+7/7/2020,Seattle,20
+7/8/2020,Seattle,30
+7/9/2020,Seattle,94
+7/10/2020,Seattle,47
+7/11/2020,Seattle,61
+7/12/2020,Seattle,59
+7/13/2020,Seattle,84
+7/14/2020,Seattle,26
+7/15/2020,Seattle,40
+7/16/2020,Seattle,32
+7/17/2020,Seattle,56
+7/18/2020,Seattle,40
+7/19/2020,Seattle,53
+7/20/2020,Seattle,32
+7/21/2020,Seattle,50
+7/22/2020,Seattle,41
+7/23/2020,Seattle,70
+7/24/2020,Seattle,27
+7/25/2020,Seattle,89
+7/26/2020,Seattle,94
+7/27/2020,Seattle,81
+7/28/2020,Seattle,28
+7/29/2020,Seattle,50
+7/30/2020,Seattle,12
+7/31/2020,Seattle,21
+8/1/2020,Seattle,37
+8/2/2020,Seattle,7
+8/3/2020,Seattle,88
+8/4/2020,Seattle,67
+8/5/2020,Seattle,62
+8/6/2020,Seattle,31
+8/7/2020,Seattle,30
+8/8/2020,Seattle,13
+8/9/2020,Seattle,57
+8/10/2020,Seattle,5
+8/11/2020,Seattle,72
+8/12/2020,Seattle,6
+8/13/2020,Seattle,61
+8/14/2020,Seattle,8
+8/15/2020,Seattle,11
+8/16/2020,Seattle,8
+8/17/2020,Seattle,43
+8/18/2020,Seattle,45
+8/19/2020,Seattle,94
+8/20/2020,Seattle,48
+8/21/2020,Seattle,70
+8/22/2020,Seattle,12
+8/23/2020,Seattle,58
+8/24/2020,Seattle,87
+8/25/2020,Seattle,62
+8/26/2020,Seattle,83
+8/27/2020,Seattle,93
+8/28/2020,Seattle,22
+8/29/2020,Seattle,34
+8/30/2020,Seattle,81
+8/31/2020,Seattle,98
+9/1/2020,Seattle,91
+9/2/2020,Seattle,12
+9/3/2020,Seattle,79
+9/4/2020,Seattle,82
+9/5/2020,Seattle,76
+9/6/2020,Seattle,83
+9/7/2020,Seattle,49
+9/8/2020,Seattle,17
+9/9/2020,Seattle,77
+9/10/2020,Seattle,58
+9/11/2020,Seattle,90
+9/12/2020,Seattle,76
+9/13/2020,Seattle,30
+9/14/2020,Seattle,98
+9/15/2020,Seattle,26
+9/16/2020,Seattle,97
+9/17/2020,Seattle,61
+9/18/2020,Seattle,26
+9/19/2020,Seattle,97
+9/20/2020,Seattle,43
+9/21/2020,Seattle,67
+9/22/2020,Seattle,56
+9/23/2020,Seattle,57
+9/24/2020,Seattle,60
+9/25/2020,Seattle,24
+9/26/2020,Seattle,98
+9/27/2020,Seattle,89
+9/28/2020,Seattle,68
+9/29/2020,Seattle,81
+9/30/2020,Seattle,88
+10/1/2020,Seattle,42
+10/2/2020,Seattle,73
+10/3/2020,Seattle,27
+10/4/2020,Seattle,80
+10/5/2020,Seattle,62
+10/6/2020,Seattle,58
+10/7/2020,Seattle,7
+10/8/2020,Seattle,55
+10/9/2020,Seattle,97
+10/10/2020,Seattle,44
+10/11/2020,Seattle,27
+10/12/2020,Seattle,12
+10/13/2020,Seattle,72
+10/14/2020,Seattle,91
+10/15/2020,Seattle,70
+10/16/2020,Seattle,59
+10/17/2020,Seattle,84
+10/18/2020,Seattle,16
+10/19/2020,Seattle,59
+10/20/2020,Seattle,39
+10/21/2020,Seattle,100
+10/22/2020,Seattle,31
+10/23/2020,Seattle,34
+10/24/2020,Seattle,37
+10/25/2020,Seattle,84
+10/26/2020,Seattle,2
+10/27/2020,Seattle,37
+10/28/2020,Seattle,45
+10/29/2020,Seattle,35
+10/30/2020,Seattle,93
+10/31/2020,Seattle,16
+11/1/2020,Seattle,30
+11/2/2020,Seattle,5
+11/3/2020,Seattle,57
+11/4/2020,Seattle,65
+11/5/2020,Seattle,83
+11/6/2020,Seattle,58
+11/7/2020,Seattle,49
+11/8/2020,Seattle,10
+11/9/2020,Seattle,1
+11/10/2020,Seattle,21
+11/11/2020,Seattle,17
+11/12/2020,Seattle,72
+11/13/2020,Seattle,32
+11/14/2020,Seattle,16
+11/15/2020,Seattle,82
+11/16/2020,Seattle,74
+11/17/2020,Seattle,11
+11/18/2020,Seattle,2
+11/19/2020,Seattle,29
+11/20/2020,Seattle,82
+11/21/2020,Seattle,20
+11/22/2020,Seattle,37
+11/23/2020,Seattle,64
+11/24/2020,Seattle,86
+11/25/2020,Seattle,17
+11/26/2020,Seattle,58
+11/27/2020,Seattle,64
+11/28/2020,Seattle,30
+11/29/2020,Seattle,85
+11/30/2020,Seattle,44
+12/1/2020,Seattle,99
+12/2/2020,Seattle,85
+12/3/2020,Seattle,80
+12/4/2020,Seattle,38
+12/5/2020,Seattle,63
+12/6/2020,Seattle,25
+12/7/2020,Seattle,31
+12/8/2020,Seattle,45
+12/9/2020,Seattle,12
+12/10/2020,Seattle,50
+12/11/2020,Seattle,78
+12/12/2020,Seattle,80
+12/13/2020,Seattle,89
+12/14/2020,Seattle,55
+12/15/2020,Seattle,69
+12/16/2020,Seattle,53
+12/17/2020,Seattle,74
+12/18/2020,Seattle,65
+12/19/2020,Seattle,94
+12/20/2020,Seattle,87
+12/21/2020,Seattle,59
+12/22/2020,Seattle,73
+12/23/2020,Seattle,90
+12/24/2020,Seattle,55
+12/25/2020,Seattle,40
+12/26/2020,Seattle,56
+12/27/2020,Seattle,79
+12/28/2020,Seattle,53
+12/29/2020,Seattle,72
+12/30/2020,Seattle,94
+12/31/2020,Seattle,59
+1/1/2021,Seattle,58
+1/2/2021,Seattle,66
+1/3/2021,Seattle,99
+1/4/2021,Seattle,32
+1/5/2021,Seattle,89
+1/6/2021,Seattle,87
+1/7/2021,Seattle,31
+1/8/2021,Seattle,80
+1/9/2021,Seattle,61
+1/10/2021,Seattle,10
+1/11/2021,Seattle,66
+1/12/2021,Seattle,34
+1/13/2021,Seattle,100
+1/14/2021,Seattle,21
+1/15/2021,Seattle,14
+1/16/2021,Seattle,100
+1/17/2021,Seattle,95
+1/18/2021,Seattle,27
+1/19/2021,Seattle,79
+1/20/2021,Seattle,73
+1/21/2021,Seattle,66
+1/22/2021,Seattle,28
+1/23/2021,Seattle,35
+1/24/2021,Seattle,66
+1/25/2021,Seattle,94
+1/26/2021,Seattle,17
+1/27/2021,Seattle,9
+1/28/2021,Seattle,67
+1/29/2021,Seattle,64
+1/30/2021,Seattle,3
+1/31/2021,Seattle,12
+2/1/2021,Seattle,62
+2/2/2021,Seattle,51
+2/3/2021,Seattle,21
+2/4/2021,Seattle,65
+2/5/2021,Seattle,45
+2/6/2021,Seattle,89
+2/7/2021,Seattle,84
+2/8/2021,Seattle,58
+2/9/2021,Seattle,24
+2/10/2021,Seattle,22
+2/11/2021,Seattle,59
+2/12/2021,Seattle,7
+2/13/2021,Seattle,39
+2/14/2021,Seattle,96
+2/15/2021,Seattle,50
+2/16/2021,Seattle,36
+2/17/2021,Seattle,98
+2/18/2021,Seattle,86
+2/19/2021,Seattle,72
+2/20/2021,Seattle,46
+2/21/2021,Seattle,86
+2/22/2021,Seattle,14
+2/23/2021,Seattle,54
+2/24/2021,Seattle,44
+2/25/2021,Seattle,74
+2/26/2021,Seattle,70
+2/27/2021,Seattle,93
+2/28/2021,Seattle,50
+3/1/2021,Seattle,10
+3/2/2021,Seattle,18
+3/3/2021,Seattle,19
+3/4/2021,Seattle,44
+3/5/2021,Seattle,85
+3/6/2021,Seattle,98
+3/7/2021,Seattle,65
+3/8/2021,Seattle,63
+3/9/2021,Seattle,83
+3/10/2021,Seattle,63
+3/11/2021,Seattle,37
+3/12/2021,Seattle,91
+3/13/2021,Seattle,83
+3/14/2021,Seattle,72
+3/15/2021,Seattle,5
+3/16/2021,Seattle,87
+3/17/2021,Seattle,65
+3/18/2021,Seattle,40
+3/19/2021,Seattle,35
+3/20/2021,Seattle,18
+3/21/2021,Seattle,6
+3/22/2021,Seattle,63
+3/23/2021,Seattle,78
+3/24/2021,Seattle,23
+3/25/2021,Seattle,80
+3/26/2021,Seattle,81
+3/27/2021,Seattle,15
+3/28/2021,Seattle,41
+3/29/2021,Seattle,85
+3/30/2021,Seattle,34
+3/31/2021,Seattle,3
