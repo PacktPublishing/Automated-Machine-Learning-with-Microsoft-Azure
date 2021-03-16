@@ -5,7 +5,7 @@
 
 This is the code repository for [Automated Machine Learning with Microsoft Azure](https://www.packtpub.com/product/Automated%20Machine%20Learning%20with%20Microsoft%20Azure/9781800565319), published by Packt.
 
-**	Build highly accurate and scalable end-to-end AI solutions with Azure AutoML**
+**Build highly accurate and scalable end-to-end AI solutions with Azure AutoML**
 
 ## What is this book about?
 Automated Machine Learning with Microsoft Azure helps you build high-performing, accurate machine learning models in record time. It allows anyone to easily harness the power of artificial intelligence and increase the productivity and profitability of your business. With a series of clicks on a guided user interface (GUI), novices and seasoned data scientists alike can easily train and deploy machine learning solutions to production.
