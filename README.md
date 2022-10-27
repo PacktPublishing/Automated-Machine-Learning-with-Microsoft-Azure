@@ -60,3 +60,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Dennis Michael Sawyers**
 is a Senior Cloud Solutions Architect at Microsoft, specializing in Data and Artificial Intelligence. In his role as a CSA, he helps Fortune 500 Companies leverage Microsoft Azure cloud technology to build top-class machine learning and AI solutions. Prior to his role at Microsoft, he was a Data Scientist at Ford Motor Company in Global Data Insights & Analytics (GDIA) and a researcher in anomaly detection at the highly regarded Carnegie Mellon Auton Lab. He received a master’s degree in Data Analytics from Carnegie Mellon's Heinz College and a bachelor’s degree from the University of Michigan. More than anything, Dennis is passionate about democratizing AI solutions through automated machine learning technology.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800565319">https://packt.link/free-ebook/9781800565319 </a> </p>
