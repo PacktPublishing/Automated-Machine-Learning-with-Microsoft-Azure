@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781800565319)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Automated Machine Learning with Microsoft Azure
 
 <a href="https://www.packtpub.com/product/Automated%20Machine%20Learning%20with%20Microsoft%20Azure/9781800565319"><img src="https://static.packt-cdn.com/products/9781800565319/cover/smaller" alt="Automated Machine Learning with Microsoft Azure
